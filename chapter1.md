@@ -101,3 +101,5 @@ void writeAnswer(int b)
     std::cout << "Sum of number: " << b << std::endl;
 }
 ```
+#### Результат работы 
+![Работа](/test1_zad1.jpg)
