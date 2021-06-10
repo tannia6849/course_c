@@ -6,3 +6,4 @@
 # [Qt5, уроки 1-5](/qt5.md)
 # [Qt5, уроки 6-11](/qt5_1.md)
 # Проект Unity
+Проект: https://drive.google.com/file/d/12yKzc4AVHAlWI0y5BmtEgnmIgb2LN1Ub/view?usp=sharing
